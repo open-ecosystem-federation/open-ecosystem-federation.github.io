@@ -4,7 +4,7 @@
 
 We are a federation of parties across Government, the private sector and academia.
 
-We have a shared vision of developing a repeatable toolkit to build flexible and scalable information ecosystems between participants who share a common domain of interest and are motivated to share signals about that domain, but who want neither to share a common information infrastructure nor to rely on fragile point-to-point messaging structures.
+We have a shared vision of developing a repeatable toolkit to build flexible and scalable information ecosystems between participants who share common domains of interest and are motivated to share signals about that domain, but who want neither to share a common information infrastructure nor to rely on fragile point-to-point messaging structures.
 
 The toolkit comprises two parts: a technical specification based on open standards and a default governance framework that addresses rules of engagement, legislation and ethics.
 
@@ -19,20 +19,9 @@ The OEF’s mission is to establish and maintain an open and collaborative allia
 
 ### The Ecosystem Toolkit
 
-This is a work in progress - we are currently closing an Alpha project and scoping a Beta project.
+The [Ecosystem Toolkit](ecosystem-toolkit) is a work in progress - we are currently closing an Alpha project and scoping a Beta project.
 
-Links provided in this section at the time of writing will point to artefacts in two places as we close our Alpha project and continue to iterate some material.
 
-OEF will deliver an open and repeatable Ecosystem Toolkit comprising two parts:
-
-* [pre Alpha - **not** open for review] A technical specification based on open standards
-* [Alpha - open for review] The Rules of Engagement a default governance framework
-
-Parties use their implementation of the OEF technical specification to declare both the signals that they control and the basis on which they will share them with other OEF compliant implementations.
-
-The signals capture the reasoning that a party has derived from - or the value they have added to - the information that is available to them about a particular domain of interest.
-
-Distinct ecosystems emerge when OEF compliant implementations collaborate around a common domain of interest, in line with either the default governance framework or a bespoke governance model that builds on top of the default framework, to share signals.
 
 ### Motivation
 
