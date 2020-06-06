@@ -19,14 +19,14 @@ The OEF’s mission is to establish and maintain an open and collaborative allia
 
 ### The Ecosystem Toolkit
 
-This is a work in progress - we are currently working through an eight week Alpha project.
+This is a work in progress - we are currently closing an Alpha project and scoping a Beta project.
 
-Links provided in this section at the time of writing will point to artefacts under development during the Alpha project.
+Links provided in this section at the time of writing will point to artefacts in two places as we close our Alpha project and continue to iterate some material.
 
 OEF will deliver an open and repeatable Ecosystem Toolkit comprising two parts:
 
-* A technical specification based on open standards
-* A default governance framework we are calling the rules of engagement
+* [pre Alpha - **not** open for review] A technical specification based on open standards
+* [Alpha - open for review] The Rules of Engagement a default governance framework
 
 Parties use their implementation of the OEF technical specification to declare both the signals that they control and the basis on which they will share them with other OEF compliant implementations.
 
