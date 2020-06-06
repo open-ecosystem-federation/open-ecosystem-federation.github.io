@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+## The Open Ecosystem Federation
 
-You can use the [editor on GitHub](https://github.com/open-ecosystem-federation/open-ecosystem-federation.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are a federation of parties across Government, the private sector and academia.
 
-### Markdown
+We have a shared vision of developing a repeatable toolkit to build flexible and scalable information ecosystems between participants who share a common domain of interest and are motivated to share signals about that domain, but who want neither to share a common information infrastructure nor to rely on fragile point-to-point messaging structures.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The toolkit comprises two parts: a technical specification based on open standards and a default governance framework that addresses rules of engagement, legislation and ethics.
 
-```markdown
-Syntax highlighted code block
+### Our mission
 
-# Header 1
-## Header 2
-### Header 3
+The OEF’s mission is to establish and maintain an open and collaborative alliance across government, industry and academia that will:
 
-- Bulleted
-- List
+* develop an ecosystem toolkit comprising a set of composable parts that permits parties to share tokens of value about common domains of interest, thereby enabling rapid decision making and inference based on the machine-readable composition of distributed effort and expertise
+* deploy a reference implementation of the ecosystem toolkit
+* promote the ecosystem toolkit as a mechanism to reduce the frictional cost of moving incremental information between parties; reduce the dependency on intermediate information infrastructure; reduce duplication in the administration of information; reduce duplication in the deployment of expertise and inference over that information; reduce the impact of IT on the environment
+* maintain and evolve the ecosystem toolkit over time
 
-1. Numbered
-2. List
+### The Ecosystem Toolkit
 
-**Bold** and _Italic_ and `Code` text
+This is a work in progress - we are currently working through an eight week Alpha project.
 
-[Link](url) and ![Image](src)
-```
+Links provided in this section at the time of writing will point to artefacts under development during the Alpha project.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+OEF will deliver an open and repeatable Ecosystem Toolkit comprising two parts:
 
-### Jekyll Themes
+* A technical specification based on open standards
+* A default governance framework we are calling the rules of engagement
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/open-ecosystem-federation/open-ecosystem-federation.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Parties use their implementation of the OEF technical specification to declare both the signals that they control and the basis on which they will share them with other OEF compliant implementations.
 
-### Support or Contact
+The signals capture the reasoning that a party has derived from - or the value they have added to - the information that is available to them about a particular domain of interest.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Distinct ecosystems emerge when OEF compliant implementations collaborate around a common domain of interest, in line with either the default governance framework or a bespoke governance model that builds on top of the default framework, to share signals.
+
+### Motivation
+
+Under construction - coming soon...
+
+### The Federation
+
+#### Core members
+
+Core members are participants who either founded the OEF or who when eligible have been voted into core membership status.
+
+Any participant may be eligible for core membership based on contribution and general agreement between existing core members.
+
+At the time of writing the core members are:
+
+* Factern
+* Food Standards Agency (FSA)
+* Future Borders
+* HM Revenue and Customs (HMRC)
+
+#### Participants
+
+* Government Digital Service (GDS)
+* Idemia
+* Suffolk Coastal Port Health Authority (PHA)
+* [Recruiting...]
+
+### OEF Governance
+
+Under construction - coming soon...
+
+### History
+
+* 2020/01 to 2020/03
+  * Future Borders and HMRC sponsor an eight week Alpha to build on the work in the OIX whitepaper
+* 2019/11
+  * OIX Published [Event-based Attribute Assurance Whitepaper](https://openidentityexchange.org/wp-content/uploads/2019/11/191101-Building-a-Trusted-Environment-Whitepaper-FINAL.pdf)
+* 2019/05 to 2019/08
+  * OIX Attribute and Event exchange discovery workshops through the summer
