@@ -54,6 +54,8 @@ Under construction - coming soon...
 
 ### History
 
+* 2020/03 to 2020/06
+  * HMRC and FSA continue remote development of the OEF Rules of Engagement
 * 2020/01 to 2020/03
   * HMRC sponsors an eight week Alpha to build on the work in the OIX whitepaper, FSA and industry participate
 * 2019/11
