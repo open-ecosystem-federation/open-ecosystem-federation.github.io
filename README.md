@@ -19,7 +19,7 @@ The OEF’s mission is to establish and maintain an open and collaborative allia
 
 ### The Ecosystem Toolkit
 
-The [Ecosystem Toolkit](ecosystem-toolkit) is a work in progress - we are currently closing an Alpha project and scoping a Beta project.
+The [Ecosystem Toolkit](ecosystem-toolkit) is a work in progress - we are currently working on a Private Beta due to finish January/February 2021.
 
 
 
@@ -38,15 +38,25 @@ Any participant may be eligible for core membership based on contribution and ge
 At the time of writing the core members are:
 
 * Factern
+* Future Borders (FB)
 * Food Standards Agency (FSA)
 * HM Revenue and Customs (HMRC)
 
 #### Participants
 
+* Suffolk Coastal Port Health Authority (PHA)
+* More to be announced...
+
+#### Alumni
+
+* Department for Work and Pensions (DWP)
 * Government Digital Service (GDS)
 * Idemia
-* Suffolk Coastal Port Health Authority (PHA)
-* [Recruiting...]
+
+#### Contributions
+
+* Inrupt
+* Oxford Semantic Technologies
 
 ### OEF Governance
 
@@ -55,10 +65,14 @@ Under construction - coming soon...
 ### History
 
 * 2020/03 to 2020/06
-  * HMRC and FSA continue remote development of the OEF Rules of Engagement
-* 2020/01 to 2020/03
-  * HMRC sponsors an eight week Alpha to build on the work in the OIX whitepaper, FSA and industry participate
+  * Future Borders, FSA and HMRC continue remote development of the OEF Rules of Engagement and Technical Specification
+* 2020/02 to 2020/03
+  * Future Borders and HMRC sponsor and Factern facilitate an eight week OIX associated Alpha to build on the work in the OIX Whitepaper - FSA, industry and  academia participate
+* 2020/02
+  * FSA joins the Open Ecosystem Federation
+* 2020/01
+  * Future Borders and HMRC create the Open Ecosystem Federation as a new initiative under the stewardship of the Distributed Systems Group
 * 2019/11
-  * OIX Published [Event-based Attribute Assurance Whitepaper](https://openidentityexchange.org/wp-content/uploads/2019/11/191101-Building-a-Trusted-Environment-Whitepaper-FINAL.pdf)
+  * OIX Published [Event-based Attribute Assurance Whitepaper](https://openidentityexchange.org/wp-content/uploads/2019/11/191101-Building-a-Trusted-Environment-Whitepaper-FINAL.pdf) based on the outputs of the Discovery Project
 * 2019/05 to 2019/08
-  * OIX Attribute and Event exchange discovery workshops through the summer
+  * HMRC kickstart and Factern facilitate an OIX associated Attribute and Event exchange Discovery Project which runs through the summer
