@@ -64,6 +64,8 @@ Under construction - coming soon...
 
 ### History
 
+* 2020/09 to present
+  * Future Borders, FSA and HMRC start a Private Beta to test and evolve the OEF Technical Specification and Rules of Engagement and develop the Collaboration across government, industry and academia
 * 2020/03 to 2020/06
   * Future Borders, FSA and HMRC continue remote development of the OEF Rules of Engagement and Technical Specification
 * 2020/02 to 2020/03
