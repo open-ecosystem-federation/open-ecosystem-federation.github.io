@@ -67,7 +67,7 @@ Under construction - coming soon...
 * 2020/03 to 2020/06
   * Future Borders, FSA and HMRC continue remote development of the OEF Rules of Engagement and Technical Specification
 * 2020/02 to 2020/03
-  * Future Borders and HMRC sponsor an eight week Alpha to build on the work in the OIX Whitepaper - FSA, industry and  academia participate
+  * Future Borders and HMRC sponsor and Factern facilitate an eight week OIX associated Alpha to build on the work in the OIX Whitepaper - FSA, industry and  academia participate
 * 2020/02
   * FSA joins the Open Ecosystem Federation
 * 2020/01
@@ -75,4 +75,4 @@ Under construction - coming soon...
 * 2019/11
   * OIX Published [Event-based Attribute Assurance Whitepaper](https://openidentityexchange.org/wp-content/uploads/2019/11/191101-Building-a-Trusted-Environment-Whitepaper-FINAL.pdf) based on the outputs of the Discovery Project
 * 2019/05 to 2019/08
-  * HMRC kickstart an OIX facilitated Attribute and Event exchange Discovery Project which runs through the summer
+  * HMRC kickstart and Factern facilitate an OIX associated Attribute and Event exchange Discovery Project which runs through the summer
