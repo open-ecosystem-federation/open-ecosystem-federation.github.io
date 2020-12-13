@@ -25,7 +25,7 @@ The [Ecosystem Toolkit](ecosystem-toolkit) is a work in progress - we are curren
 
 ### Background
 
-For more information have a look at the [background](background).
+For more information have a look at the [background](background.md).
 
 ### The Federation
 
