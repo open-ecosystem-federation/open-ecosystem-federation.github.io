@@ -21,11 +21,9 @@ The OEF’s mission is to establish and maintain an open and collaborative allia
 
 The [Ecosystem Toolkit](ecosystem-toolkit) is a work in progress - we are currently working on a Private Beta due to finish January/February 2021.
 
+### Background
 
-
-### Motivation
-
-Under construction - coming soon...
+For more information have a look at the [background](background).
 
 ### The Federation
 
