@@ -4,7 +4,7 @@
 
 We are a federation of parties across Government, the private sector and academia.
 
-We have a shared vision of developing a repeatable toolkit to build flexible and scalable information ecosystems between participants who share common domains of interest and are motivated to share signals about those domains, but who want neither to share a common information infrastructure nor to rely on fragile point-to-point messaging structures.
+We have a shared vision of developing a repeatable toolkit to build configurable, scalable, privacy enabled ecosystems for participants who share common domains of interest and are motivated to share insight/signals about those domains, but who want neither to share a common information infrastructure nor to rely on fragile point-to-point messaging structures.
 
 The toolkit comprises two parts: a technical specification based on open standards and a default governance framework that addresses rules of engagement, legislation and ethics.
 
@@ -12,10 +12,12 @@ The toolkit comprises two parts: a technical specification based on open standar
 
 The OEF’s mission is to establish and maintain an open and collaborative alliance across government, industry and academia that will:
 
-* develop an ecosystem toolkit comprising a set of composable parts that permits parties to share tokens of value about common domains of interest, thereby enabling rapid decision making and inference based on the machine-readable composition of distributed effort and expertise
-* deploy a reference implementation of the ecosystem toolkit
-* promote the ecosystem toolkit as a mechanism to reduce the frictional cost of moving incremental information between parties; reduce the dependency on intermediate information infrastructure; reduce duplication in the administration of information; reduce duplication in the deployment of expertise and inference over that information; reduce the impact of IT on the environment
-* maintain and evolve the ecosystem toolkit over time
+* join expertise across organisations and individuals participating in mutually beneficial ecosystems
+* ensure participants in these ecosystems retain control over when and how they contribute their insight and expertise and what is done with it
+* improve decision making and business processes close to real time at an ecosystemic level
+* provide an alternative to the broken current paradigm of middlemen, centralisation, data lakes and friction filled share mechanisms and instrumentation
+* help us move less 'raw' data needlessly - reducing duplication in the administration and storage of and inference over information
+* reduce the impact of IT on the environment
 
 ### The Ecosystem Toolkit
 
