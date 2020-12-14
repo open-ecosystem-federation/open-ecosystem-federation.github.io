@@ -1,5 +1,12 @@
 ## The Open Ecosystem Federation
 
+### Table of Contents
+
+* [Background](background#background)
+* [An Introduction to the Ecosystem Toolkit](background#an-introduction-to-the-ecosystem-toolkit)
+* [An Overview of the Ecosystem Toolkit](background#an-overview-of-the-ecosystem-toolkit)
+* [Design Goals of the Ecosystem Toolkit](background#design-goals-of-the-ecosystem-toolkit)
+
 ### Authors
 
 * Ben Helps
