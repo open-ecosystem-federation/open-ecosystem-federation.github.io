@@ -174,7 +174,7 @@ Practically speaking, this implies that the Ecosystem Toolkit must have the capa
 
 #### Interoperability
 
-The Technical Specification imposes “API First” as an Architectural Constraint on the deployment of Expert Systems. All interaction with the Expert System takes place through a gateway referred to as the Exchange, which must be deployed as an API that it is self-describing, negotiable and evolvable (borrowing elements from REST, and minimising the need for out of band information). All interactions must use the standardised Event schema.
+The Technical Specification imposes “API First” as an Architectural Constraint on the deployment of Expert Systems. All interaction with the Expert System takes place through a gateway referred to as the Exchange, which must be deployed as an API that is self-describing, negotiable and evolvable (borrowing elements from REST, and minimising the need for out of band information). All interactions must use the standardised Event schema.
 
 This means that Owning Entities can deploy Expert Systems using different technical topologies, and that they will still be able to communicate with other Expert Systems. The “API First” approach ensures that Expert Systems can cope with today’s rapidly evolving technical landscape, and the standardised Event schema protects against the systemic fragility inherent in the context-specific data schema often used as API standards.
 
