@@ -12,11 +12,10 @@ The toolkit comprises two parts: a technical specification based on open standar
 
 The OEF’s mission is to establish and maintain an open and collaborative alliance across government, industry and academia that will:
 
-* join expertise across organisations and individuals participating in mutually beneficial ecosystems
+* join expertise across organisations and individuals participating in mutually beneficial ecosystems to improve decision making and business processes close to real time at an ecosystemic level
 * give control to participants over how and when they contribute their insight and expertise and what is done with it by others
-* improve decision making and business processes close to real time at an ecosystemic level
 * minimise data - reducing duplication in the administration and storage of and inference over information
-* remove unnecessary middlemen, centralisation and data lakes
+* maximise local processing - to help remove unnecessary middlemen, centralisation and data lakes
 * provide more scalable and extensible alternatives to the current friction filled share mechanisms and instruments
 * reduce the impact of IT on the environment
 
