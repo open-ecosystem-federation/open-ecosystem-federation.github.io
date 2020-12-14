@@ -56,8 +56,8 @@ The heterogeneity of the different situations and contexts which might benefit f
 
 The Ecosystem Toolkit therefore comprises two major artefacts:
 
-* RULES OF ENGAGEMENT to facilitate the agreement required for scalable, interoperable and extensible collaboration between participants within a given ecosystem.
-* A TECHNICAL SPECIFICATION, offering a generic approach based on open standards, to implement the execution of scalable, interoperable and extensible collaboration over the Events that – for example – might be used to record proof of identity or eligibility.
+* **Rules of Engagement** to facilitate the agreement required for scalable, interoperable and extensible collaboration between participants within a given ecosystem.
+* **Technical Specification**, offering a generic approach based on open standards, to implement the execution of scalable, interoperable and extensible collaboration over the Events that – for example – might be used to record proof of identity or eligibility.
 
 The Rules of Engagement comprises of different areas of concern, referred to in the Rules of Engagement itself as components: legal basis (e.g. consent), liability framework, assurance levels, service levels and issue resolution.
 
@@ -98,16 +98,16 @@ As indicated above, the Rules of Engagement set out a composable and configurabl
 Some form of legal instrumentation is required to govern a given instance of collaboration. This may take the form of a bilateral contract between two entities, a multi-lateral collaboration agreement between several entities, a series of contracts with a legal entity tasked with operating a scheme, etc.
 
 The ten components (which represents a non-exhaustive list) are:
-* LEGAL BASIS: the legal basis on which entities are collaborating over information. The default setting is consent.
-* LIABILITY FRAMEWORK: the level of liability linked to the quality of information being shared. The default setting is zero.
-* ASSURANCE FRAMEWORK: the level of assurance over the quality of information being shared. The default setting is zero.
-* ISSUE RESOLUTION: the mechanisms used to resolve issues and disputes, as well as sanctions for ecosystem members that fail to observe them. The default is the general body of national and international law and regulation relevant to each participant.
-* TERMS OF SERVICE: these might include service levels, feedback loops, revocation rights, etc. There are no default terms of service.
-* SCOPE OF SERVICE: the default scope of service is the provision of access to write information in the form of Events.
-* ECOSYSTEM INTENT: intent goes beyond the immediate transaction and may be used to capture what is expected of participants. There is no default expression of intent.
-* MEMBERSHIP ADMINISTRATION: the people, entities, policies, mechanisms and tools used to administer membership of an ecosystem. There are no default settings.
-* VALUE EXCHANGE FRAMEWORK: the motivation for collaboration, expressed as a value on the information being shared. The default motivation is altruism, and the default value is therefore zero.
-* SETTLEMENT FRAMEWORK: the mechanism through which value is exchanged to settle for the sharing of information. The default setting is psychic reward, meaning that unless configured otherwise no settlement framework is in place.
+* **Legal Basis**: the legal basis on which entities are collaborating over information. The default setting is consent.
+* **Liability Framework**: the level of liability linked to the quality of information being shared. The default setting is zero.
+* **Assurance Framework**: the level of assurance over the quality of information being shared. The default setting is zero.
+* **Issue Resolution**: the mechanisms used to resolve issues and disputes, as well as sanctions for ecosystem members that fail to observe them. The default is the general body of national and international law and regulation relevant to each participant.
+* **Terms of Service**: these might include service levels, feedback loops, revocation rights, etc. There are no default terms of service.
+* **Scope of Service**: the default scope of service is the provision of access to write information in the form of Events.
+* **Ecosystem Intent**: intent goes beyond the immediate transaction and may be used to capture what is expected of participants. There is no default expression of intent.
+* **Membership Administration**: the people, entities, policies, mechanisms and tools used to administer membership of an ecosystem. There are no default settings.
+* **Value Exchange Framework**: the motivation for collaboration, expressed as a value on the information being shared. The default motivation is altruism, and the default value is therefore zero.
+* **Settlement Framework**: the mechanism through which value is exchanged to settle for the sharing of information. The default setting is psychic reward, meaning that unless configured otherwise no settlement framework is in place.
 
 The defaults contained within the Rules of Engagement provide a basic pattern for such legal instrumentation. The intention is to test a more evolved collaboration agreement – which can in turn be published as a pattern of collaboration – in a subsequent Beta Project.
 
@@ -116,26 +116,26 @@ The defaults contained within the Rules of Engagement provide a basic pattern fo
 The Technical Specification sets out the technical considerations that must be deployed in order to implement an Expert System. An Expert System can be implemented by any entity that sees value in collaborating with other entities also deploying Expert Systems.
 
 The Technical Specification contains the following responsibilities:
-* EXCHANGE: the gateway that connects the Expert System to the outside world (including other Expert Systems), and through which the Owning Entity (which operates an Expert System) configures and instructs that Expert System
-* ADMINISTRATION: the instruction set used to provision the Expert System, configure the Owning Entity's entitlements, instantiate an Ecosystem and specify a knowledge base
-* REFINERY: the transformation of information (including Administration instructions) into a machine-readable representation in the form of an Event
-* EVENT STORE: the persistent storage of Events written to the Expert System
-* REGISTRY: a registry of all the 'things' that have been declared (i.e. nodes), including the Participants that form part of an Ecosystem and their entitlements
-* ONTOLOGY: a conceptual model of the domain of interest shared by the Participants of an Ecosystem, expressed in a machine-readable logic-based language
+* **Exchange**: the gateway that connects the Expert System to the outside world (including other Expert Systems), and through which the Owning Entity (which operates an Expert System) configures and instructs that Expert System
+* **Administration**: the instruction set used to provision the Expert System, configure the Owning Entity's entitlements, instantiate an Ecosystem and specify a knowledge base
+* **Refinery**: the transformation of information (including Administration instructions) into a machine-readable representation in the form of an Event
+* **Event Store**: the persistent storage of Events written to the Expert System
+* **Registry**: a registry of all the 'things' that have been declared (i.e. nodes), including the Participants that form part of an Ecosystem and their entitlements
+* **Ontology**: a conceptual model of the domain of interest shared by the Participants of an Ecosystem, expressed in a machine-readable logic-based language
 
 These responsibilities may be implemented to varying levels depending on the requirements of any given ecosystem. With the exception of a number of clearly articulated Architecture Constraints, implementation details are not part of the Technical Specification.
 
 ### Design Goals of the Ecosystem Toolkit
 
 The Ecosystem Toolkit aims to elicit six beneficial qualities:
-* Privacy: participants must be in control of when and how they contribute the results of deploying their expertise and what is done with it by others - we are working towards a goal of data minimization while maximizing local processing
-* Scalability: after a relatively modest initial investment to configure it, an Expert System must have minimal marginal costs for executing the tasks of collaboration within an ecosystem
-* Configurability: Expert Systems must be configurable across different contexts, fostering reuse and discouraging repeated development of the same core functionalities
-* Extensibility: Expert Systems must be able to easily accommodate an extension – or indeed change – of the domain of interest over which entities choose to collaborate
-* Interoperability: Expert Systems that have been deployed using different underlying technologies must be able to communicate with each other
-* Traceability: every actor and action within an ecosystem must be traceable through the Event history, so that there is a basis for trust that is accessible to other participants
+* **Privacy**: participants must be in control of when and how they contribute the results of deploying their expertise and what is done with it by others - we are working towards a goal of data minimization while maximizing local processing
+* **Scalability**: after a relatively modest initial investment to configure it, an Expert System must have minimal marginal costs for executing the tasks of collaboration within an ecosystem
+* **Configurability**: Expert Systems must be configurable across different contexts, fostering reuse and discouraging repeated development of the same core functionalities
+* **Extensibility**: Expert Systems must be able to easily accommodate an extension – or indeed change – of the domain of interest over which entities choose to collaborate
+* **Interoperability**: Expert Systems that have been deployed using different underlying technologies must be able to communicate with each other
+* **Traceability**: every actor and action within an ecosystem must be traceable through the Event history, so that there is a basis for trust that is accessible to other participants
 
-SCALABILITY
+#### Scalability
 
 Machine-to-machine collaboration is inherently scalable. The Ecosystem Toolkit therefore leverages machines to execute collaboration between entities, by acting on behalf of the entities that are responsible for them.
 
@@ -145,7 +145,7 @@ The Alpha Project sought to address this by requiring that the Rules of Engageme
 
 This is intended to encourage the emergence of easily repeatable patterns – starting with the default collaboration agreement contained within the Rules of Engagement – that can be scaled as part of machine-to-machine interactions.
 
-CONFIGURABILITY
+#### Configurability
 
 Just as the Rules of Engagement must be configurable, so too the entitlements that govern access to information must be configurable. Configuration of entitlements is therefore at the epicentre of the Administration of an Expert System.
 
@@ -155,7 +155,7 @@ Entitlements can be codified as a distinct data shape. Entitlements can therefor
 
 Just as the Rules of Engagement encourage patterns of collaboration agreement, so too the Technical Specification encourages the configuration of entitlements into repeatable data shapes that can be easily shared and implemented as a matter of best practice.
 
-EXTENSIBILITY
+#### Extensibility
 
 The real world involves an endless flow of information across and between different contexts, and along many different extended value chains and user journeys. A “user” wants to be able constantly to assert and re-assert core attributes or properties about themselves as they move from one context to the next, without having to re-establish trust in them.
 
@@ -165,7 +165,7 @@ As discussed above, the Ecosystem Toolkit requires all information to be express
 
 Practically speaking, this implies that the Ecosystem Toolkit must have the capability to create and edit a machine-readable Ontology: i.e. the ability to develop, evolve and communicate from one machine to another the meaning of the information being shared.
 
-INTEROPERABILITY
+#### Interoperability
 
 The Technical Specification imposes “API First” as an Architectural Constraint on the deployment of Expert Systems. All interaction with the Expert System takes place through a gateway referred to as the Exchange, which must be deployed as an API that it is self-describing, negotiable and evolvable (borrowing elements from REST, and minimising the need for out of band information). All interactions must use the standardised Event schema.
 
@@ -173,7 +173,7 @@ This means that Owning Entities can deploy Expert Systems using different techni
 
 To achieve these benefits, the Expert System must provide the ability to convert information that is pushed into it (from outside) into the standardised Event schema. This responsibility is referred to as the Refinery.
 
-TRACEABILITY
+#### Traceability
 
 As explored in detail in the Whitepaper, one of the biggest barriers to collective action is the ability to agree how to trust the quality of the information over which entities collaborate.
 Most efforts to address this facet of collective action have focused on the definition of assurance standards, whereby entities either converge on a common due diligence process or rely on an “authoritative source” that undertakes such processing on their behalf.
