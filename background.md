@@ -1,5 +1,12 @@
 ## The Open Ecosystem Federation
 
+### Table of Contents
+
+* [Background](background#background)
+* [An Introduction to the Ecosystem Toolkit](background#an-introduction-to-the-ecosystem-toolkit)
+* [An Overview of the Ecosystem Toolkit](background#an-overview-of-the-ecosystem-toolkit)
+* [Design Goals of the Ecosystem Toolkit](background#design-goals-of-the-ecosystem-toolkit)
+
 ### Authors
 
 * Ben Helps
@@ -65,7 +72,7 @@ Each of these components is configurable (e.g. different levels of liability can
 
 Of course, this basic framework will not meet the needs of entities looking to collaborate in situations that require relatively high levels of trust. The Rules of Engagement allow for new components to be added and for different configurations of each component.
 
-Importantly, specific instances (e.g. a defined level of liability, or a given issue resolution mechanism) of any component can be easily referenced by the machines (known as EXPERT SYSTEMS) that implement the Technical Specification.
+Importantly, specific instances (e.g. a defined level of liability, or a given issue resolution mechanism) of any component can be easily referenced by the machines (known as Expert Systems) that implement the Technical Specification.
 
 The intention is for easily repeatable patterns to emerge, as ecosystems compose and configure components to meet their needs for specific levels of assurance and trust. These patterns can be exposed in a machine-readable way to other entities looking to participate in the ecosystem, or by participants looking to create their own ecosystems operating in a different situation or context.
 
