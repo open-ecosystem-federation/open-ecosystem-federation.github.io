@@ -135,12 +135,24 @@ These responsibilities may be implemented to varying levels depending on the req
 ### Design Goals of the Ecosystem Toolkit
 
 The Ecosystem Toolkit aims to elicit six beneficial qualities:
-* **Privacy**: participants must be in control of when and how they contribute the results of deploying their expertise and what is done with it by others - we are working towards a goal of data minimization while maximizing local processing
+* **Privacy**: participants must be in control of when and how they contribute the results of deploying their expertise and what is done with it by others - we are working towards a goal of data minimisation while maximising local processing
 * **Scalability**: after a relatively modest initial investment to configure it, an Expert System must have minimal marginal costs for executing the tasks of collaboration within an ecosystem
 * **Configurability**: Expert Systems must be configurable across different contexts, fostering reuse and discouraging repeated development of the same core functionalities
 * **Extensibility**: Expert Systems must be able to easily accommodate an extension – or indeed change – of the domain of interest over which entities choose to collaborate
 * **Interoperability**: Expert Systems that have been deployed using different underlying technologies must be able to communicate with each other
 * **Traceability**: every actor and action within an ecosystem must be traceable through the Event history, so that there is a basis for trust that is accessible to other participants
+
+#### Privacy
+
+A high level of duplication in administration over and storage of a body of data has repeatedly proven to be a problem in terms of privacy, security, ethics and cost.
+
+Sooner or later the wrong kind of party will get access to the data.
+
+Duplicating inference over the same bodies of 'raw' data can have a significant impact on the environment and is wasteful. Worse it does not capitalise on the expertise brought to bear on the information by other parties.
+
+The OEF believe that it is better to identify expertise across a graph of collaborating participants, and that the result of those participants deploying that expertise yields a smaller and more useful footprint of insight.
+
+Cutting out middle men and waste, we can raise the bar in expertise across networks of government, commercial and academic collaborators.
 
 #### Scalability
 
