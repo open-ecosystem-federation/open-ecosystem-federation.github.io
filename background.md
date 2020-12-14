@@ -150,7 +150,7 @@ Sooner or later the wrong kind of party will get access to the data.
 
 Duplicating inference over the same bodies of 'raw' data can have a significant impact on the environment and is wasteful. Worse it does not capitalise on the expertise brought to bear on the information by other parties.
 
-The OEF believe that it is better to identify expertise across a graph of collaborating participants, and that the result of those participants deploying that expertise yields a smaller and more useful footprint of insight.
+The OEF believe that it is better to identify expertise across a graph of collaborating participants, and that the result of those participants deploying that expertise yields a smaller and more useful footprint of insight. We move less and process more locally.
 
 Cutting out middle men and waste, we can raise the bar in expertise across networks of government, commercial and academic collaborators.
 
