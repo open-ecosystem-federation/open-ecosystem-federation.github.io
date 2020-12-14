@@ -8,6 +8,8 @@ We have a shared vision of developing a repeatable toolkit to build configurable
 
 The toolkit comprises two parts: a technical specification based on open standards and a default governance framework that addresses rules of engagement, legislation and ethics.
 
+You can read more about what we are doing and have done so far in the [background](background.md).
+
 ### Our mission
 
 The OEF’s mission is to establish and maintain an open and collaborative alliance across government, industry and academia that will:
@@ -22,10 +24,6 @@ The OEF’s mission is to establish and maintain an open and collaborative allia
 ### The Ecosystem Toolkit
 
 The [Ecosystem Toolkit](ecosystem-toolkit) is a work in progress - we are currently working on a Private Beta due to finish January/February 2021.
-
-### Background
-
-For more information have a look at the [background](background.md).
 
 ### The Federation
 
