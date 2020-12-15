@@ -146,9 +146,9 @@ The Ecosystem Toolkit aims to elicit six beneficial qualities:
 
 A high level of duplication in administration over and storage of a body of data has repeatedly proven to be a problem in terms of privacy, security, ethics and cost.
 
-Sooner or later the wrong kind of party will get access to the data.
-
 Duplicating inference over the same bodies of 'raw' data can have a significant impact on the environment and is wasteful. Worse it does not capitalise on the expertise brought to bear on the information by other parties.
+
+Many prevailing models put one organisation at the centre of collecting and analysing raw data. This sort of model can allow one organisation unfettered access and capacity to use that data for purposes that aren't in the best interest of contributing organisations without the appropriate visibility and checks.
 
 The OEF believe that it is better to identify expertise across a graph of collaborating participants, and that the result of those participants deploying that expertise yields a smaller and more useful footprint of insight. We move less and process more locally.
 
