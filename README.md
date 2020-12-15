@@ -8,24 +8,22 @@ We have a shared vision of developing a repeatable toolkit to build configurable
 
 The toolkit comprises two parts: a technical specification based on open standards and a default governance framework that addresses rules of engagement, legislation and ethics.
 
+You can read more about what we are doing and have done so far in the [background](background.md).
+
 ### Our mission
 
 The OEF’s mission is to establish and maintain an open and collaborative alliance across government, industry and academia that will:
 
-* join expertise across organisations and individuals participating in mutually beneficial ecosystems
-* ensure participants in these ecosystems retain control over when and how they contribute their insight and expertise and what is done with it
-* improve decision making and business processes close to real time at an ecosystemic level
-* provide an alternative to the broken current paradigm of middlemen, centralisation, data lakes and friction filled share mechanisms and instrumentation
-* help us move less 'raw' data needlessly - reducing duplication in the administration and storage of and inference over information
+* join expertise across organisations and individuals participating in mutually beneficial ecosystems to improve decision making and business processes close to real time at an ecosystemic level
+* give control to participants over how and when they contribute their insight and expertise and what is done with it by others
+* minimise data - reducing duplication in the administration and storage of and inference over information
+* maximise local processing - to help remove unnecessary middlemen, centralisation and data lakes
+* provide more scalable and extensible alternatives to the current friction filled share mechanisms and instruments
 * reduce the impact of IT on the environment
 
 ### The Ecosystem Toolkit
 
 The [Ecosystem Toolkit](ecosystem-toolkit) is a work in progress - we are currently working on a Private Beta due to finish January/February 2021.
-
-### Motivation
-
-Under construction - coming soon...
 
 ### The Federation
 
