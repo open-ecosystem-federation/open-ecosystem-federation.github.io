@@ -39,10 +39,12 @@ At the time of writing the core members are:
 * Future Borders (FB)
 * Food Standards Agency (FSA)
 * HM Revenue and Customs (HMRC)
+* More to be announced...
 
 #### Participants
 
 * Suffolk Coastal Port Health Authority (PHA)
+* London Port Health Authority (PHA)
 * More to be announced...
 
 #### Alumni
