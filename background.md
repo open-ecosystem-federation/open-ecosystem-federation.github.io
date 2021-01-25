@@ -27,8 +27,6 @@ Following the completion of the Discovery Project, several organisations (HMRC, 
 
 Two of these organisations, Future Borders and HMRC created the Open Ecosystem Federation in late January 2020 as a new initiative under the stewardship of the Distributed Systems Group (a large set of collaborating entities comprising government, industry and academia). FSA joined the OEF right after this in February taking the core members to three.
 
-The outputs from the OEF are part of a set of complementary pieces co-created and co-evolved by the Distributed Systems Group an example of which is the Utility Trade Platform (UTP).
-
 The OEF maintains an association with OIX in order to protect the co-design and evolution of the open standards and artefacts which are created through the various phases of the project.
 
 The Alpha Project was launched towards the end of January 2020 and ran until the end of March. The target content was discussed over the course of nine workshops, the last of which took place on 25th March.
