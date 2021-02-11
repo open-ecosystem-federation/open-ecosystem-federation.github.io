@@ -1,5 +1,8 @@
 ## The Open Ecosystem Federation
 
+>The highest form a civilization can reach is a seamless web of deserved trust.
+> - Charlie Munger
+
 ### About
 
 We are a federation of parties across Government, the private sector and academia.
