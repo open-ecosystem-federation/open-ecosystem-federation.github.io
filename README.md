@@ -1,5 +1,8 @@
 ## The Open Ecosystem Federation
 
+>The highest form a civilization can reach is a seamless web of deserved trust.
+> - Charlie Munger
+
 ### About
 
 We are a federation of parties across Government, the private sector and academia.
@@ -23,7 +26,7 @@ The OEF’s mission is to establish and maintain an open and collaborative allia
 
 ### The Ecosystem Toolkit
 
-The [Ecosystem Toolkit](ecosystem-toolkit) is a work in progress - we are currently working on a Private Beta due to finish January/February 2021.
+The [Ecosystem Toolkit](ecosystem-toolkit) is a work in progress - we are currently working on a Private Beta due to finish March 2021.
 
 ### The Federation
 
