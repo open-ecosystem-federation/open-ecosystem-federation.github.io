@@ -78,6 +78,6 @@ Under construction - coming soon...
 * 2020/01
   * Future Borders and HMRC create the Open Ecosystem Federation as a new initiative under the stewardship of the Distributed Systems Group
 * 2019/11
-  * OIX Published [Event-based Attribute Assurance Whitepaper](https://openidentityexchange.org/wp-content/uploads/2019/11/191101-Building-a-Trusted-Environment-Whitepaper-FINAL.pdf) based on the outputs of the Discovery Project
+  * OIX Published [Event-based Attribute Assurance Whitepaper](https://openidentityexchange.org/networks/87/item.html?id=78) based on the outputs of the Discovery Project
 * 2019/05 to 2019/08
   * HMRC kickstart and Factern facilitate an OIX associated Attribute and Event exchange Discovery Project which runs through the summer
