@@ -38,8 +38,9 @@ Any participant may be eligible for core membership based on contribution and ge
 
 At the time of writing the core members are:
 
+* Cabinet Office (Future Borders)
+* Defra
 * Factern
-* Future Borders (FB)
 * Food Standards Agency (FSA)
 * HM Revenue and Customs (HMRC)
 * More to be announced...
