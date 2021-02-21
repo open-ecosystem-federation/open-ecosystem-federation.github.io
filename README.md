@@ -26,7 +26,7 @@ The OEF’s mission is to establish and maintain an open and collaborative allia
 
 ### The Ecosystem Toolkit
 
-The [Ecosystem Toolkit](ecosystem-toolkit) is a work in progress - we are currently working on a Private Beta due to finish January/February 2021.
+The [Ecosystem Toolkit](ecosystem-toolkit) is a work in progress - we are currently working on a Private Beta due to finish March 2021.
 
 ### The Federation
 
@@ -38,8 +38,9 @@ Any participant may be eligible for core membership based on contribution and ge
 
 At the time of writing the core members are:
 
+* Cabinet Office (Future Borders)
+* Defra
 * Factern
-* Future Borders (FB)
 * Food Standards Agency (FSA)
 * HM Revenue and Customs (HMRC)
 * More to be announced...
@@ -78,6 +79,6 @@ Under construction - coming soon...
 * 2020/01
   * Future Borders and HMRC create the Open Ecosystem Federation as a new initiative under the stewardship of the Distributed Systems Group
 * 2019/11
-  * OIX Published [Event-based Attribute Assurance Whitepaper](https://openidentityexchange.org/wp-content/uploads/2019/11/191101-Building-a-Trusted-Environment-Whitepaper-FINAL.pdf) based on the outputs of the Discovery Project
+  * OIX Published [Event-based Attribute Assurance Whitepaper](https://openidentityexchange.org/networks/87/item.html?id=78) based on the outputs of the Discovery Project
 * 2019/05 to 2019/08
   * HMRC kickstart and Factern facilitate an OIX associated Attribute and Event exchange Discovery Project which runs through the summer
