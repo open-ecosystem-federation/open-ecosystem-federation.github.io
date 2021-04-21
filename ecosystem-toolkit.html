@@ -130,6 +130,129 @@
           <p class="drac-text drac-line-height drac-text-white">
           These properties hugely increase interoperability (both internally within an ecosystem and externally between ecosystems) and extensibility of solutions that are deployed in a way that conforms to the Ecosystem Toolkit. See 'Design Goals' for more detail.
           </p>
+
+          <h3 class="drac-heading drac-heading-md drac-text-purple-cyan">Design goals</h3>
+          <p class="drac-text drac-line-height drac-text-white">
+            The Ecosystem Toolkit aims to elicit six beneficial qualities:
+          </p>
+          <ul class="drac-list drac-list-unordered drac-list-purple">
+            <li class="drac-text drac-text-white">Privacy: participants must be in control of when and how they contribute the results of deploying their expertise and what is done with it by others - we are working towards a goal of data minimisation while maximising local processing</li>
+            <li class="drac-text drac-text-white">Scalability: after a relatively modest initial investment to configure it, an Expert System must have minimal marginal costs for executing the tasks of collaboration within an ecosystem</li>
+            <li class="drac-text drac-text-white">Configurability: Expert Systems must be configurable across different contexts, fostering reuse and discouraging repeated development of the same core functionalities</li>
+            <li class="drac-text drac-text-white">Extensibility: Expert Systems must be able to easily accommodate an extension – or indeed change – of the domain of interest over which entities choose to collaborate</li>
+            <li class="drac-text drac-text-white">Interoperability: Expert Systems that have been deployed using different underlying technologies must be able to communicate with each other</li>
+            <li class="drac-text drac-text-white">Traceability: every actor and action within an ecosystem must be traceable through the Event history, so that there is a basis for trust that is accessible to other participants</li>
+          </ul>
+
+          <h4 class="drac-heading drac-heading-sm drac-text-purple-cyan">Privacy</h4>
+          <p class="drac-text drac-line-height drac-text-white">
+            A high level of duplication in administration over and storage of a body of data has repeatedly proven to be a problem in terms of privacy, security, ethics and cost.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            Duplicating inference over the same bodies of 'raw' data can have a significant impact on the environment and is wasteful. Worse it does not capitalise on the expertise brought to bear on the information by other parties.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            Many prevailing models put one organisation at the centre of collecting and analysing raw data. This sort of model can allow one organisation unfettered access and capacity to use that data for purposes that aren't in the best interest of contributing organisations without the appropriate visibility and checks.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            The OEF believe that it is better to identify expertise across a graph of collaborating participants, and that the result of those participants deploying that expertise yields a smaller and more useful footprint of insight. We move less and process more locally.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            Cutting out middle men and waste, we can raise the bar in expertise across networks of government, commercial and academic collaborators.
+          </p>
+
+          <h4 class="drac-heading drac-heading-sm drac-text-purple-cyan">Scalability</h4>
+          <p class="drac-text drac-line-height drac-text-white">
+            Machine-to-machine collaboration is inherently scalable. The Ecosystem Toolkit therefore leverages machines to execute collaboration between entities, by acting on behalf of the entities that are responsible for them.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            However, as noted above, a technical specification alone is not enough to define the legal, procedural and behavioural aspects that govern the collective action within an ecosystem.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            The Alpha Project sought to address this by requiring that the Rules of Engagement be formulated as a set of configurable components, instances of which can be easily referenced by the Expert Systems which deploy the Technical Specification.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            This is intended to encourage the emergence of easily repeatable patterns – starting with the default collaboration agreement contained within the Rules of Engagement – that can be scaled as part of machine-to-machine interactions.
+          </p>
+
+          <h4 class="drac-heading drac-heading-sm drac-text-purple-cyan">Configurability</h4>
+          <p class="drac-text drac-line-height drac-text-white">
+            Just as the Rules of Engagement must be configurable, so too the entitlements that govern access to information must be configurable. Configuration of entitlements is therefore at the epicentre of the Administration of an Expert System.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            The Owning Entity (i.e. the entity operating an Expert System) needs to be able to specify the entitlements of the other entities that it is collaborating with. The scope of action that is afforded to each ecosystem participant can therefore be tailored to each specific need.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            Entitlements can be codified as a distinct data shape. Entitlements can therefore not only be deployed by an Expert System but they can also easily be shared with other Expert Systems, reducing the need to rebuild the same set of entitlements for different entities or contexts.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            Just as the Rules of Engagement encourage patterns of collaboration agreement, so too the Technical Specification encourages the configuration of entitlements into repeatable data shapes that can be easily shared and implemented as a matter of best practice.
+          </p>
+          <h4 class="drac-heading drac-heading-sm drac-text-purple-cyan">Extensibility</h4>
+          <p class="drac-text drac-line-height drac-text-white">
+            The real world involves an endless flow of information across and between different contexts, and along many different extended value chains and user journeys. A “user” wants to be able constantly to assert and re-assert core attributes or properties about themselves as they move from one context to the next, without having to re-establish trust in them.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            As importantly, a “user” will acquire new attributes and properties as they interact with entities in one context, and the accretion of these new attributes and properties can be used as ‘signals’ that streamline their interaction with entities in a subsequent context.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            As discussed above, the Ecosystem Toolkit requires all information to be expressed using an Event, conforming to standardised schema. This allows information of any kind to flow to wherever it is needed, with both the content of the information and the basis of its assurance able to permeate different contexts.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            Practically speaking, this implies that the Ecosystem Toolkit must have the capability to create and edit a machine-readable Ontology: i.e. the ability to develop, evolve and communicate from one machine to another the meaning of the information being shared.
+          </p>
+
+          <h4 class="drac-heading drac-heading-sm drac-text-purple-cyan">Interoperability</h4>
+          <p class="drac-text drac-line-height drac-text-white">
+            The Technical Specification imposes “API First” as an Architectural Constraint on the deployment of Expert Systems. All interaction with the Expert System takes place through a gateway referred to as the Exchange, which must be deployed as an API that is self-describing, negotiable and evolvable (borrowing elements from REST, and minimising the need for out of band information). All interactions must use the standardised Event schema.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            This means that Owning Entities can deploy Expert Systems using different technical topologies, and that they will still be able to communicate with other Expert Systems. The “API First” approach ensures that Expert Systems can cope with today’s rapidly evolving technical landscape, and the standardised Event schema protects against the systemic fragility inherent in the context-specific data schema often used as API standards.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            To achieve these benefits, the Expert System must provide the ability to convert information that is pushed into it (from outside) into the standardised Event schema. This responsibility is referred to as the Refinery.
+          </p>
+
+          <h4 class="drac-heading drac-heading-sm drac-text-purple-cyan">Traceability</h4>
+          <p class="drac-text drac-line-height drac-text-white">
+            As explored in detail in the Whitepaper, one of the biggest barriers to collective action is the ability to agree how to trust the quality of the information over which entities collaborate. Most efforts to address this facet of collective action have focused on the definition of assurance standards, whereby entities either converge on a common due diligence process or rely on an “authoritative source” that undertakes such processing on their behalf.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            In this approach, the frameworks that govern the relationships between collaborating entities are paramount. The information over which the entities collaborate (e.g. the “user” attributes and properties) often does not need to be supported by any further metadata (i.e. information about the information) – it is usually sufficient to know that it has come from an authoritative source that delivers against a known assurance level.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            This approach places a high burden on those entities acting as authoritative sources: their operations must align with a given standard, and they must be sufficiently financially robust to warrant the high levels of trust placed in them to meet assurance standards.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            The reliance on such authoritative sources can act as a barrier to widespread collective action. Where there is a strong business case, entities (usually large institutions) are willing to act as authoritative sources. However, it is very difficult to extend or replicate the same level of reliance into other contexts where the business case may not be so clear cut.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            Although the Ecosystem Toolkit does not preclude the role of authoritative sources, as a default it encourages a fundamentally different model of assurance based on traceability.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            The Technical Specification requires that each and every step in the Administration of every Expert System (such as its provisioning and configuration, the declaration of other entities participating in an ecosystem, the editing of an ontology, the creation of a knowledge base, etc.) is recorded as an Event, and persisted within an Event Store.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            This means that every actor and action within an ecosystem is traceable through the history of Events, and can always be linked to the Events containing the “user” attributes and properties information over which collaboration primarily occurs.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            Since entities deploying the Ecosystem Toolkit are able to collaborate over any Event, they can collaborate over the history of Events that led to the assertion of a particular “user” attribute or property.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            Entities that are able to contribute signals into an ecosystem (e.g. because they have interacted with the “user”) are able to do so, with their assertions supported by a fully traceable audit trail of Events.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            The metadata-centric nature of the Ecosystem Toolkit amplifies the quality of signals from a (much wider) network of (potentially less trusted) sources, without introducing the burdens imposed by the need to become an authoritative source.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            In contrast, the burden shifts to the Event Consumer, who are made responsible for interpreting the information they receive, including the audit trail of Events. To do so, they must deploy reasoning models to determine if that audit trail is sufficient to satisfy the assurance levels that they require.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            This approach – in common with other event-driven architectures – allows Event Producers and Event Consumers to scale independently of each other, and so reduces barriers to collective action.
+          </p>
+          <p class="drac-text drac-line-height drac-text-white">
+            In addition, the Ecosystem Toolkit actively encourages (without imposing) the emergence of assurance models that draw on the fully traceable audit trail of events to derive a basis for trust. Such assurance models leverage network effects and pattern recognition, providing powerful and robust alternatives to those that are anchored on authoritative sources.
+          </p>
         </div>
       </div>
     </div>
