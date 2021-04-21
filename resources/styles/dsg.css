@@ -1,9 +1,13 @@
-div.drac-box>h3, p {
+div.drac-box>h3, div.drac-box>h4, p {
     margin-top: 20px;
 }
 
 ul {
     margin-top: 20px;
+}
+
+li {
+    margin-top: 10px;
 }
 
 q {
